@@ -12,7 +12,7 @@ rem les dependances declarees par le projet. Aucune cle n'est demandee ici.
 
 echo.
 echo ============================================================
-echo              INSTALLATION DE JARVIS
+echo              INSTALLATION DE JARVIS BY TheRealMC
 echo ============================================================
 echo.
 
